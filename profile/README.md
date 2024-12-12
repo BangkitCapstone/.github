@@ -1,7 +1,7 @@
 # <p align="center">Somat</p>
 
 <p align="center">
-  <img width="200" src="https://github.com/ariff-m/JanTune/blob/main/asset/JanTune.png" alt="JanTune">
+  <img width="200" src="">
 </p>
 
 ## <p align="center">Somat - Tomato Plant Leaf Disease Detection System.</p>
@@ -20,7 +20,7 @@ This application is designed to help farmers or anyone interested in tomato cult
 |A284B4KX4631|Zulfa Afifah Rohmaniyah|Mobile Development|Universitas Negeri Surabaya|
 
 ## Project Architecture
-![somat-architecture]()
+![somat-architecture](https://github.com/BangkitCapstone/.github/blob/main/profile/cloud_architecture.png)
 
 ### &copy; Bangkit Academy 2024 - Product Capstone Project
 
