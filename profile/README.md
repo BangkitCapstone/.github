@@ -31,7 +31,7 @@ Here are the links to the main repositories for each learning path:
 |-----------------------|-----------------------------------------------|
 | Machine Learning      | [Machine Learning Repository](https://github.com/BangkitCapstone/Machine-Learning)            |
 | Cloud Computing       | [Cloud Computing Repository](https://github.com/BangkitCapstone/Backend_API)             |
-| Mobile Development    | [Mobile Development Repository](https://github.com/BangkitCapstone/mobile-app)          |
+| Mobile Development    | [Mobile Development Repository](https://github.com/BangkitCapstone/mobile-dev)          |
 
 
 
