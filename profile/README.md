@@ -8,6 +8,8 @@
 
 This application is designed to help farmers or anyone interested in tomato cultivation to detect diseases on tomato plant leaves quickly and accurately. Using image recognition technology, this application can analyze tomato leaf images taken using a smartphone and then provide a diagnosis of diseases that may attack the plant.
 
+### Capstone Team: C242-PS161
+
 ### Our project team members:
 |Student ID|Name|Learning Path|University|
 |-----|-----|-----|-----|
