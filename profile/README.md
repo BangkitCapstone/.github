@@ -19,7 +19,7 @@ This application is designed to help farmers or anyone interested in tomato cult
 |A284B4KY2541|Moh. Novil Ma'arij|Mobile Development|Universitas Negeri Surabaya|
 |A284B4KX4631|Zulfa Afifah Rohmaniyah|Mobile Development|Universitas Negeri Surabaya|
 
-## Project Architecture
+## Google Cloud Architecture
 ![somat-architecture](https://github.com/BangkitCapstone/.github/blob/main/profile/cloud_architecture.png)
 
 ### &copy; Bangkit Academy 2024 - Product Capstone Project
