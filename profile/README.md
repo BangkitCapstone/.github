@@ -1,7 +1,7 @@
 # <p align="center">Somat</p>
 
 <p align="center">
-  <img width="200" src="">
+  <img width="200" src="https://github.com/BangkitCapstone/.github/blob/main/profile/logo1.png">
 </p>
 
 ## <p align="center">Somat - Tomato Plant Leaf Disease Detection System.</p>
