@@ -22,5 +22,18 @@ This application is designed to help farmers or anyone interested in tomato cult
 ## Google Cloud Architecture
 ![somat-architecture](https://github.com/BangkitCapstone/.github/blob/main/profile/cloud_architecture.png)
 
+
+## Main Repositories  
+
+Here are the links to the main repositories for each learning path:  
+
+| Learning Path         | Repository Link                               |
+|-----------------------|-----------------------------------------------|
+| Machine Learning      | [Machine Learning Repository](#)            |
+| Cloud Computing       | [Cloud Computing Repository](#)             |
+| Mobile Development    | [Mobile Development Repository](#)          |
+
+
+
 ### &copy; Bangkit Academy 2024 - Product Capstone Project
 
